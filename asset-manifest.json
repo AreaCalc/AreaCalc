@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AreaCalc/static/css/main.dc726e04.css",
+    "main.js": "/AreaCalc/static/js/main.fc0971b9.js",
+    "static/js/787.40526e0c.chunk.js": "/AreaCalc/static/js/787.40526e0c.chunk.js",
+    "static/media/CircleSource.png": "/AreaCalc/static/media/CircleSource.d74616899874933291f6.png",
+    "static/media/RectangleSource.png": "/AreaCalc/static/media/RectangleSource.fb915dadad2056590475.png",
+    "static/media/TriangleSource.png": "/AreaCalc/static/media/TriangleSource.5edd2d4817f1347b1616.png",
+    "static/media/TrapeziumSource.png": "/AreaCalc/static/media/TrapeziumSource.a629efdb2d597ed8ff76.png",
+    "static/media/CylinderSource.png": "/AreaCalc/static/media/CylinderSource.6ae0eb84d578457fb551.png",
+    "static/media/CubeSource.png": "/AreaCalc/static/media/CubeSource.70d03a20ea00b730042e.png",
+    "static/media/RhombusSource.png": "/AreaCalc/static/media/RhombusSource.328cc57be9aedefe664b.png",
+    "static/media/SphereSource.png": "/AreaCalc/static/media/SphereSource.11e4288e41df0d0e0f20.png",
+    "index.html": "/AreaCalc/index.html",
+    "main.dc726e04.css.map": "/AreaCalc/static/css/main.dc726e04.css.map",
+    "main.fc0971b9.js.map": "/AreaCalc/static/js/main.fc0971b9.js.map",
+    "787.40526e0c.chunk.js.map": "/AreaCalc/static/js/787.40526e0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc726e04.css",
+    "static/js/main.fc0971b9.js"
+  ]
+}
